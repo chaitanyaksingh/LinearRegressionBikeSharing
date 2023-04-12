@@ -1,5 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
+# Linear-Regression-Bike-Sharing-Assignment
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -20,19 +19,6 @@ Based on various meteorological surveys and people's styles, the service provide
 * Expecting a decrease in bookings during light snow or rain, which can be used as an opportunity to service the bikes without affecting business.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
